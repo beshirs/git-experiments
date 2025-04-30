@@ -23,3 +23,8 @@
 11. git log to check if the changes were successfull
 
 ## Part 3: Make and Resolve a Conflict
+1. We both edited the same file
+2. one person add, committed and pushed changes and the second person did the same after
+3. A merge conflict occured
+4. The second person prompted in the terminal git merge
+5. Resolved the issue but accepting both changes in the editor, then added, committed and pushed
